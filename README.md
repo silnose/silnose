@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Silvana, aka [silnose][website] 
+## Hi there 👋 I'm Silvana, aka [silnose][website] 
 
 ![](https://github.com/silnose/silnose.github.io/blob/main/src/images/github-banner.png)
 #### About me 👀
