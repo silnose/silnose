@@ -1,7 +1,8 @@
+![](https://github.com/silnose/silnose.github.io/blob/main/src/images/github-banner.png)
+
 ## Hi there 👋 I'm Silvana, aka [silnose][website] 
 
-![](https://github.com/silnose/silnose.github.io/blob/main/src/images/github-banner.png)
-#### About me 👀
+#### About me 💃
 ``` 
 const about = {
   software_developer: 🧑‍💻,
@@ -16,11 +17,17 @@ const about = {
 };
 
 ``` 
-#### Find me around the web 🗺
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+#### What I'm focusing on 👩‍💻
+
+Currently improving my Javascript superpowers and going back to my first love: **frontend, UI/UX** . 💗
+
+
+#### Find me on  👀
+
+- [My website][website]
+- [Twitter][twitter]
+- [Linkedin][linkedin]
 
 
 <br />
