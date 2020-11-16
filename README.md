@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Silvana, aka [silnose][website] 
 
-#### About me 💃
+### About me 💃
 ``` 
 const about = {
   software_developer: 🧑‍💻,
@@ -18,12 +18,12 @@ const about = {
 
 ``` 
 
-#### What I'm focusing on 👩‍💻
+### What I'm focusing on 👩‍💻
 
 Currently improving my Javascript superpowers and going back to my first love: **frontend, UI/UX** . 💗
 
 
-#### Find me on  👀
+### Find me on  👀
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)][linkedin] 
