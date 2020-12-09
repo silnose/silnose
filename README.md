@@ -13,7 +13,7 @@ const about = {
   disruptive: 🤸‍♀️,
   kaizen: 🧘‍♀️,
   cook: 🧑‍🍳,
-  lady: 🧜‍♀️,
+  she_her: 🧜‍♀️,
 };
 
 ``` 
